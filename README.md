@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/viharp2002" target="blank"><img src="https://img.shields.io/twitter/follow/viharp2002?logo=twitter&style=for-the-badge" alt="viharp2002" /></a> </p>
 
-- My Portfolio [https://portfolio-viharp2002.vercel.app/](https://portfolio-viharp2002.vercel.app/)
+- My Portfolio [https://portfolio-viharp2002.vercel.app/](https://portfoliovihar.vercel.app/)
 
 - 📫 How to reach me **viharp2002@gmail.com**
 
